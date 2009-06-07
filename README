@@ -1,0 +1,21 @@
+TargetBuffs
+===========
+
+Features
+--------
+
+Shows target's buffs or debuffs depending on it's reaction in its own frame, buffs for hostile, debuffs for friendly.
+
+Allows filtering buffs based on the buff type (currently just magic).
+
+Useful for dispelling classes, priests particularly, but could be useful for shamans and paladins as well.
+
+Usage
+-----
+
+Options can be accessed through '/tb'.
+
+Author
+------
+
+Raine Virta (raneATkapsiDOTfi)

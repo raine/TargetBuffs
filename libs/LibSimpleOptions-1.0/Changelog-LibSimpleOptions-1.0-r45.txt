@@ -1,0 +1,19 @@
+------------------------------------------------------------------------
+r45 | nevcairiel | 2009-03-06 10:12:36 +0000 (Fri, 06 Mar 2009) | 1 line
+Changed paths:
+   M /trunk/LibSimpleOptions-1.0.toc
+
+Restore LoD to Libraries, as 3.0.8 fixed all bugs that blocked LoD OptionalDeps to load properly.
+------------------------------------------------------------------------
+r43 | ckknight | 2009-02-06 23:25:31 +0000 (Fri, 06 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/LibSimpleOptions-1.0.lua
+
+Make makePanel return the panel, thus making LibSimpleOptions.AddOptionsPanel properly return the panel
+------------------------------------------------------------------------
+r42 | ckknight | 2008-12-18 03:44:51 +0000 (Thu, 18 Dec 2008) | 1 line
+Changed paths:
+   A /trunk/.docmeta
+
+Add .docmeta
+------------------------------------------------------------------------
