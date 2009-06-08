@@ -2,7 +2,7 @@
 ## Title: TargetBuffs
 ## Notes: Show target's buffs in its own frame
 ## Author: rane [rane@kapsi.fi]
-## SavedVariables: BuffWutDB
+## SavedVariables: TargetBuffsDB
 ## OptionalDeps: LibStub, Ace3
 
 libs\LibStub-1.0\LibStub-1.0.xml
